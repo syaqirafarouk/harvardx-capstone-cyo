@@ -1,2 +1,1 @@
-# harvardx-capstone-cyo
-HarvardX_Capstone_CYO Project
+Files needed for the HarvardX Capstone CYO project submission
