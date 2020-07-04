@@ -1,1 +1,1 @@
-Files needed for the HarvardX Capstone CYO project submission
+Files needed for the HarvardX Data Science Capstone CYO project submission
